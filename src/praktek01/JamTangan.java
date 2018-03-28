@@ -16,4 +16,13 @@ public class JamTangan {
     String tahun;
     String bahan;
     String bentuk;
+    
+    void infoJamTangan() {
+    System.out.println("Nama    : "+nama);
+    System.out.println("Merek   : "+merk);
+    System.out.println("Ukuran  : "+ukuran);
+    System.out.println("Tahun   : "+tahun);
+    System.out.println("Bahan   : "+bahan);
+    System.out.println("Bentuk  : "+bentuk);
+    }
 }
