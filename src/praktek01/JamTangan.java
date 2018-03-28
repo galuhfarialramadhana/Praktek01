@@ -10,5 +10,5 @@ package praktek01;
  * @author Galuh Farial R
  */
 public class JamTangan {
-    
+
 }
