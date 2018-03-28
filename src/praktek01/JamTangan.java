@@ -10,5 +10,10 @@ package praktek01;
  * @author Galuh Farial R
  */
 public class JamTangan {
-
+    String nama;
+    String merk;
+    String ukuran;
+    String tahun;
+    String bahan;
+    String bentuk;
 }
